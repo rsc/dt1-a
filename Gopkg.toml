@@ -1,0 +1,3 @@
+[[constraint]]
+  name = "github.com/rsc/dt1-b"
+  version = "1.0.0"
